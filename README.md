@@ -231,7 +231,7 @@ No new certificate required. No CLI config file to write. No port to remember.
 
 ## Full Documentation
 
-The complete project writeup including full context, environment details, and extended troubleshooting narrative is available in the [Project Cerberus Notion workspace](https://www.notion.so/339fe4fa7fd380739e48d52210a6848d).
+The complete project writeup including full context, environment details, and extended troubleshooting narrative is available in the [Project Cerberus Notion workspace](https://dent-trampoline-c53.notion.site/Project-Cerberus-Public-Portfolio-351fe4fa7fd3816384c5d06cabbc1a9d?source=copy_link).
 
 ---
 
